@@ -1,3 +1,8 @@
 # AlgoCasts
 
-Companion repo to a course on Udemy.com
+Some basic coding interview questions.
+
+Some algorithms.
+
+A bit of DataStructures.
+
